@@ -23,3 +23,6 @@ export PATH=$PATH:/cygdrive/c/PortableApps/Python34:/cygdrive/c/PortableApps/Pyt
 http://localhost:9292
 
 Elmaradtam az 59 oldalon.
+
+./sspa create_bucket learnjs.laszlo.ekart.com
+./sspa deploy_bucket learnjs.laszlo.ekart.com
