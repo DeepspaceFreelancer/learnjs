@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------
+1. Az egesz kezdodik a:
+"I:\EkartLaszlo\Programozas\Javascript\learnjs" 
+konyvtarban ahol ott van a "sspa" script
+
+2. Itt elinditom az Bash-t:
+"C:\Program Files\Git\git-bash.exe"
+
+3. Hozza adom a Python-t:
+export PATH=$PATH:/c/PortableApps/Python36:/c/PortableApps/Python36/Scripts
+
+4. Elinditom servert:
+./sspa server
+
+A cuccot meg megkapom a kovetkezo helyen:
+http://localhost:9292
+----------------------------------------------------------------------------------------------------------
+
+cd "I:\EkartLaszlo\Programozas\Javascript\learnjs"
+"C:\Program Files\Git\git-bash.exe"
+export PATH=$PATH:/c/PortableApps/Python36:/c/PortableApps/Python36/Scripts
+./sspa server
+http://localhost:9292
+
+Elmaradtam az 59 oldalon.
+
+./sspa create_bucket learnjs.laszlo.ekart.com
+./sspa deploy_bucket learnjs.laszlo.ekart.com
